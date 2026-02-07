@@ -5,7 +5,7 @@ const client = new Client({
   intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages]
 });
 
-const IP = "mc.hypixel.net";
+const IP = "mc.krytexmc.com";
 const PORT = 25565;
 const CHANNEL_ID = "1469785789247389953";
 
